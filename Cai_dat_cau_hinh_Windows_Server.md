@@ -14,99 +14,99 @@ Việc nâng cấp Windows Server thành Domain Controller giúp:
 
 Chuyển sang sử dụng IP tĩnh: 
 
-![img](57)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image57.png?raw=true)
 
 Add Roles and Features Wizard trong Sever Manager:
 
-![img](58)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image58.png?raw=true)
 
 Chọn máy chủ đích:
 
-![img](59)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image59.png?raw=true)
 
 Chọn Active Directory Domain Services:
 
-![img](60)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image60.png?raw=true)
 
 Cài đặt role cho phép nâng cấp thành Domain Controller:
 
-![img](61)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image61.png?raw=true)
 
 Đặt tên Root domain name là PDT181.it:
 
-![img](62)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image62.png?raw=true)
 
 Đặt mật khẩu: 
 
-![img](63)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image63.png?raw=true)
 
 Đặt tên cho NetBIOS domain:
 
-![img](64)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image64.png?raw=true)
 
 Cài đặt: 
 
-![img](65)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image65.png?raw=true)
 
 Nâng cấp Domain thành công:
 
-![img](66)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image66.png?raw=true)
 
 => Cấu hình máy trạm Windows7 gia nhập vào domain vừa tạo được
 
 Máy Windows 7 gia nhập domain: 
 
-![img](67)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image67.png?raw=true)
 
 => Cài đặt Web Server và FTP Server
 
 Truy cập Add Roles and Features Wizard trên Windows Server: 
 
-![img](68)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image68.png?raw=true)
 
 Cài đặt thành công Web Server (IIS):
 
-![img](69)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image69.png?raw=true)
 
 Chọn FTP Server trong Web Sever:
 
-![img](70)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image70.png?raw=true)
 
 Mở IIS Manager: 
 
-![img](71)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image71.png?raw=true)
 
 Thêm FTP Site: 
 
-![img](72)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image72.png?raw=true)
 
 Cấu hình FTP Site: 
 
-![img](73)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image73.png?raw=true)
 
-![img](74)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image74.png?raw=true)
 
 Tạo file tên ftpsharing trên Windows Server:
 
-![img](75)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image75.png?raw=true)
 
 => Máy Windows 7 truy cập được vào file ftpsharing:
 
-![img](76)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image76.png?raw=true)
 
 => Cài đặt Remote Desktop Users
 
 Trên Windows Server, cài đặt Remote Desktop Services: 
 
-![img](77)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image77.png?raw=true)
 
 Enabled thành công Remote Desktop:
 
-![img](78)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image78.png?raw=true)
 
 Điều khiển Windows Server thành công từ máy Windows 7:
 
-![img](79)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image79.png?raw=true)
 
 PsTools là một bộ công cụ mạnh mẽ giúp quản trị viên quản lý, giám sát và khắc phục sự cố trên các hệ thống Windows cục bộ và từ xa. Nó đặc biệt hữu ích trong các môi trường mạng lớn, nơi cần tự động hóa và quản lý tập trung.
 
@@ -114,19 +114,19 @@ PsTools là một bộ công cụ mạnh mẽ giúp quản trị viên quản l�
 
 Cài đặt pstools vào ổ C máy Windows 7:
 
-![img](80)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image80.png?raw=true)
 
 Kết nối thành công từ windows 7 sang windows sever:
 
-![img](81)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image81.png?raw=true)
 
 Xem systeminfo bên máy windows 7:
 
-![img](82)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image82.png?raw=true)
 
 Xem systeminfo bên máy windows sever:
 
-![img](83)
+![img](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/images/image83.png?raw=true)
 
 
 

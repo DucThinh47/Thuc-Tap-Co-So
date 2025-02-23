@@ -10,5 +10,5 @@ Thực hành các bài môn thực tập cơ sở
 
 - [Bài 3: Cài đặt, cấu hình Ubuntu Server](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/Cai_dat_cau_hinh_Ubuntu_Server.md)
 
-- [Bài 4: Cài đặt, cấu hình Windows Server]()
+- [Bài 4: Cài đặt, cấu hình Windows Server](https://github.com/DucThinh47/Thuc-Tap-Co-So/blob/main/Cai_dat_cau_hinh_Windows_Server.md)
 
